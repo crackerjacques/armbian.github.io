@@ -84,12 +84,12 @@
       "script_link": "https://github.com/armbian/imager/blob/main/.github/workflows/maintenance-pr-check.yml",
       "filelength": 14239,
       "edited": "2026-08-07T18:16:04.000Z",
-      "executed": "2026-09-28T05:08:19Z",
-      "last_run_status": "success",
+      "executed": "2026-09-28T16:01:17Z",
+      "last_run_status": "failure",
       "retry_count": 0,
-      "total_run_time_seconds": 1508,
-      "last_run_duration_seconds": 1508,
-      "total_runs": 7,
+      "total_run_time_seconds": 1380,
+      "last_run_duration_seconds": 1380,
+      "total_runs": 8,
       "cron_schedule": null
     },
     {
