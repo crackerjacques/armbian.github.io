@@ -84,11 +84,11 @@
       "script_link": "https://github.com/armbian/sdk/blob/main/.github/workflows/scorecards.yml",
       "filelength": 3032,
       "edited": "2026-09-06T08:42:16.000Z",
-      "executed": "2026-09-29T14:07:18Z",
+      "executed": "2026-10-06T14:14:52Z",
       "last_run_status": "success",
       "retry_count": 0,
-      "total_run_time_seconds": 39,
-      "last_run_duration_seconds": 39,
+      "total_run_time_seconds": 41,
+      "last_run_duration_seconds": 41,
       "total_runs": 10,
       "cron_schedule": "at 20 minutes past the hour, at 7:00, on Tue"
     }
