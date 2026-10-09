@@ -12,7 +12,7 @@
       "script_link": "https://github.com/armbian/imager/blob/main/.github/workflows/data-sync-locales.yml",
       "filelength": 2678,
       "edited": "2026-01-17T06:43:36.000Z",
-      "executed": "2026-10-08T04:14:16Z",
+      "executed": "2026-10-09T04:19:31Z",
       "last_run_status": "success",
       "retry_count": 0,
       "total_run_time_seconds": 12,
